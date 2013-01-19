@@ -1,7 +1,10 @@
-AccDC Bootstrap for jQuery R1.3
+AccDC Bootstrap for jQuery R1.3.1
 =====
 
 AccDC Bootstrap is an HTML parser that renders advanced, accessible interactive controls using semantic HTML markup.
+
+This version of AccDC Bootstrap is an API that interfaces with jQuery as an extension.
+All of the toolkit component modules plug into this interface.
 
 Bootstrapping refers to the use of semantic HTML markup to configure advanced controls, which are then magically converted into dynamic interactive components when the content finishes loading.
 
