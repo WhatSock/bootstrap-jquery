@@ -3,7 +3,7 @@ AccDC Bootstrap for jQuery R1.5
 
 AccDC Bootstrap is an HTML parser that renders advanced, accessible interactive controls using semantic HTML markup.
 
-AccDC was awarded the "Above and Beyond Accessibility Award" from the United States Department of Labor, and was presented at the Developing with Accessibility Event, hosted by the Federal Communications Commission in Washington DC in 2012.
+Supported by the Royal Society of Arts, AccDC was awarded the "Above and Beyond Accessibility Award" from the United States Department of Labor, and was presented at the Developing with Accessibility Event, hosted by the Federal Communications Commission in Washington DC in 2012.
 
 This version of AccDC Bootstrap is an API that interfaces with jQuery as an extension.
 All of the toolkit component modules plug into this interface.
