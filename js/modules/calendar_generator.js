@@ -263,7 +263,7 @@ Part of AccDC, a Cross-Browser JavaScript accessibility API, distributed under t
 									dc.iter = dc.iterE = (di + 6) > 6 ? -1 + di : di + 6;
 									dc.iterS = di;
 								}
-								dc.source += '<th class="week" title="' + d.lng + '" role="presentation"><span>' + d.shrt + '</span></th>';
+								dc.source += '<th scope="col" class="week" title="' + d.lng + '" role="presentation"><span>' + d.shrt + '</span></th>';
 							}
 							dc.source += '</tr><tr role="presentation">';
 							var m = new Date();
