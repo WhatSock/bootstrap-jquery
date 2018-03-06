@@ -1,4 +1,4 @@
-AccDC Bootstrap 1.5 for jQuery
+AccDC Bootstrap 1.6 for jQuery
 =====
 
 AccDC Bootstrap is an HTML parser that renders advanced, accessible interactive controls using semantic HTML markup.
