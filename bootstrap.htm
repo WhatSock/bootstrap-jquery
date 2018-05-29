@@ -55,6 +55,17 @@ ev.preventDefault();
                 if (window.navigator.onLine) 
                     // Check for updates
                     $A.getScript('http://api.whatsock.com/bootstrap-jquery-updates.js');
+
+                  // Scroll to page title when interacting with main tabs
+                  let tabLink = document.querySelector('.contextual-menu');
+                  let contentY = document.getElementById('pgContent').offsetTop;
+
+                  tabLink.addEventListener('click', function() {
+                    window.scroll({
+                      top: contentY,
+                      behavior: "smooth"
+                    });
+                  });
             });
         </script>
     </head>
